@@ -9,7 +9,7 @@ The technique involves reducing the dimensions of given dimensions to a lesser n
 ###### mnist_train.csv
 
 ### Python Code Files:
-####### Dimensionality Reduction-L10
+Dimensionality Reduction-L10
 
 ### Sections:
 ###### importing data
