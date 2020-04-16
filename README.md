@@ -22,3 +22,27 @@ Dimensionality Reduction-L10
 ###### t-SNE with perplexity=50 and iterations=5000
 ###### t-SNE with perplexity=2
 ###### t-SNE for all the 42000 points
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+# Fitting a Variable to Gaussian distribution using various Transformation techniques
+
+### Dataset used: 
+###### titanic_train.csv
+
+### Python Code Files:
+####### Feature Engineering-Transform to Gaussian Distribution
+
+### Sections:
+###### importing data
+###### shape of dataset
+###### check for null value
+###### replace null values with random values
+###### define Q-Q Plot Function
+###### Q-Q Plot for Age Column
+###### Q-Q Plot for Fare Column
+###### Logarithmic Transformation
+###### Reciprocal Transformation
+###### Square Root Transformation
+###### Exponential Transformation
+###### BoxCox Transformation
